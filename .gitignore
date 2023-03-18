@@ -1,0 +1,9 @@
+# Spotify App Secrets
+spotifysecrets.py
+
+# Token Cache
+.cache
+
+# Python Cache
+__pycache__/
+
